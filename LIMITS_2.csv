@@ -1,0 +1,24 @@
+TEST_NAME,SUB_TEST,TEXT_LIMIT,NLT (Not Less Than),NMT (Not More Than)
+Description,Description,White to Off white powder.,,
+Solubility,Solubility,"Very soluble in water and in methanol,  very slightly soluble in ethyl acetate and  soluble in ethanol.",,
+Identification by IR,Identification by IR,None,None,None
+Identification by HPLC,Identification by HPLC,None,None,None
+Water Content,Water Content,Not more than 0.5% w/w,,0.5% w/w
+Residue on ignition,Residue on ignition,Not more than 0.10% w/w,,0.10%
+Heavy metals,Heavy metals,Not more than 0.001%,,0.001%
+Tartaric acid content by  Titrimetry (on anhydrous  basis),Tartaric acid content by  Titrimetry (on anhydrous  basis),Between 36.4% to 38.3% w/w,36.4% w/w,38.3% w/w
+Organic Impurities Procedure-1,Phenol Impurity,Not more than 0.10%,None,0.10%
+Organic Impurities Procedure-1,DPTTA,Not more than 0.15%,None,0.15%
+Organic Impurities Procedure-1,Nor impurity,Not more than 0.15%,None,0.15%
+Organic Impurities Procedure-1,Any other Impurity,Not more than 0.10%,None,0.10%
+Organic Impurities Procedure-1,Total impurities,Not more than 0.50%,None,0.50%
+Procedure-2 (Enantiomeric Purity)  R-Enantiomer,Procedure-2 (Enantiomeric Purity)  R-Enantiomer,Not more than 0.15%,,0.15%
+Assay by HPLC (on  anhydrous basis),Assay by HPLC (on  anhydrous basis),Between 98.0% to 102.0%,98.0%,102.0%
+Residual solvents by GC,n-Heptane,Not more than 100 ppm,,Not more than 100 ppm
+Residual solvents by GC,Ethyl acetate,Not more than 100 ppm,,Not more than 100 ppm
+Residual solvents by GC,Methanol,Not more than 200 ppm,,Not more than 200 ppm
+Residual solvents by GC,Dichloromethane,Not more than 100 ppm,,Not more than 100 ppm
+Residual solvents by GC,Isopropyl alcohol,Not more than 500 ppm,,Not more than 500 ppm
+Particle size,Particle size,10% particles should be not more than 10  µm,,10 µm
+Melting Range,Melting Range,Between 121°C and 128°C (Melts within  a two-degree range),121°C,128°C
+Specific optical Rotation (5% w/v in Ethanol at  25°C),Specific optical Rotation (5% w/v in Ethanol at  25°C),Between +5.0° and +6.5°,+5.0°,+6.5°

@@ -1,0 +1,7 @@
+ipykernel
+pandas
+python-docx
+comtypes
+langchain
+langchain-groq
+python-dotenv
